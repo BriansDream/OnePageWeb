@@ -1,0 +1,9 @@
+hr {
+    width: 25%;
+    background-color: black;
+}
+
+section {
+    min-height: 600px;
+    margin-bottom: 20px;
+}
